@@ -1,0 +1,5 @@
+# ignorando a pasta /node_modules
+# .idea/*
+# utilize !<nome> para ignorar apenas aquele arquivo.
+/node_modules
+.idea/*
